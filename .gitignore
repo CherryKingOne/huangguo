@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# 爬虫输出(每次运行生成的抓取结果)
+output/
+
+# 页面分析用的原始 HTML 快照(非项目代码)
+*.txt
